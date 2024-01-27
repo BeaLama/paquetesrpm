@@ -1,4 +1,7 @@
 # paquetesrpm
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fblogs.iadb.org%2Fconocimiento-abierto%2Fes%2Frepositorios-institucionales%2F&psig=AOvVaw2icBYE-WO6gm8mICMu1gPW&ust=1706476443992000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiP96S-_oMDFQAAAAAdAAAAABAI
+
 # Introducción
 
 Los paquetes RPM (Red Hat Package Manager) son una forma de distribuir software en sistemas basados en Red Hat, como CentOS y Rocky Linux. En este repositorio, exploraremos los aspectos básicos relacionados con los paquetes RPM.
