@@ -8,3 +8,11 @@
 ## Distribución
 - Características
   - [`características`](contenido/distribución.md)
+
+## Repositorios
+- Repositorios basados en RPM
+  - [`lugares`](contenido/repositorios.md)
+
+## Caso práctico
+- Comandos para instalar paquetes RPM
+  - [`caso práctico`](contenido/casopráctico.md)
