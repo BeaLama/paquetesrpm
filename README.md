@@ -6,4 +6,5 @@
   - [`información`](contenido/introducción.md)
 
 ## Distribución
--
+- Características
+  - [`características`](contenido/distribución.md)
