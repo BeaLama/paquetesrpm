@@ -1,2 +1,2 @@
 # PAQUETES RPM 
-![PORTADA](imagen.md)
+![PORTADA](img/RPM.jpg)
