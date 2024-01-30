@@ -16,3 +16,6 @@
 ## Caso práctico
 - Comandos para instalar paquetes RPM
   - [`caso práctico`](contenido/casopráctico.md)
+ 
+## Webgrafía
+Con ayuda de chatgpt(https://chat.openai.com)
