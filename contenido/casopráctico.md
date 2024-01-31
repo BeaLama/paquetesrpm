@@ -18,4 +18,4 @@ e) Desinstalar el paquete
 
 sudo dnf remove nombre_paquete
 
-![video](https://youtu.be/lQvC0NL96fQ)
+[video](https://youtu.be/lQvC0NL96fQ)
