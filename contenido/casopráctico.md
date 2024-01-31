@@ -1,4 +1,4 @@
-a) Actualizar el sistema
+##a) Actualizar el sistema
 
 sudo dnf update
 
@@ -17,3 +17,4 @@ rpm -q nombre_paquete
 e) Desinstalar el paquete
 
 sudo dnf remove nombre_paquete
+
