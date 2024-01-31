@@ -1,4 +1,4 @@
-##a) Actualizar el sistema
+a) Actualizar el sistema
 
 sudo dnf update
 
@@ -18,3 +18,4 @@ e) Desinstalar el paquete
 
 sudo dnf remove nombre_paquete
 
+![video](https://youtu.be/lQvC0NL96fQ)
